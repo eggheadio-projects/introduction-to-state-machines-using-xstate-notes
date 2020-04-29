@@ -22,6 +22,9 @@ In this course, we will explore the problems state machines purport to solve, li
 By the time you're done taking this course, you should have a solid education about state machines and be able to start applying them
 
 
+## Table of Contents
+
+- [01. Course Intro](01_xstate-course-intro-and-overview.md)
 
 ## Contribute
 
