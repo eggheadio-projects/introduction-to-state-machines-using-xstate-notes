@@ -24,7 +24,28 @@ By the time you're done taking this course, you should have a solid education ab
 
 ## Table of Contents
 
-- [01. Course Intro](01_xstate-course-intro-and-overview.md)
+- [01. Course Intro and Overview](01_xstate-course-intro-and-overview.md)
+- [02. Eliminate Boolean Explosion by Enumerating States](02_javascript-eliminate-boolean-explosion-by-enumerating-states.md)
+- [03. Replace Enumerated States with a State Machine](03_xstate-replace-enumerated-states-with-a-state-machine.md)
+- [04. Use an Interpreter to Instantiate a Machine](04_xstate-use-an-interpreter-to-instantiate-a-machine.md)
+- [05. Use XState Viz to Visually Develop and Test Your Machine](05_xstate-use-xstate-viz-to-visually-develop-and-test-your-machine.md)
+- [06. Add Actions to Transitions to Fire Side Effects](06_xstate-add-actions-to-transitions-to-fire-side-effects.md)
+- [07. Trigger Actions When Entering and Exiting a XState State](07_xstate-trigger-actions-when-entering-and-exiting-a-xstate-state.md)
+- [08. Replace Inline Functions with String Shorthands](08_xstate-replace-inline-functions-with-string-shorthands.md)
+- [09. Use Internal Transitions in XState to Avoid State Exit and Re-Entry](09_xstate-use-internal-transitions-in-xstate-to-avoid-state-exit-and-re-entry.md)
+- [10. Send Events to the Machine with the XState Send Action Creator](10_xstate-send-events-to-the-machine-with-the-xstate-send-action-creator.md)
+- [11. Track Infinite States with with XState Context](11_xstate-track-infinite-states-with-with-xstate-context.md)
+- [12. How Action Order Affects Assigns to Context in a XState Machine](12_xstate-how-action-order-affects-assigns-to-context-in-a-xstate-machine.md)
+- [13. Use Activities in XState to Run Ongoing Side Effects](13_xstate-use-activities-in-xstate-to-run-ongoing-side-effects.md)
+- [14. Conditionally Transition to States with Guards in XState](14_xstate-conditionally-transition-to-states-with-guards-in-xstate.md)
+- [15. Simplify State Explosion in XState through Hierarchical States](15_xstate-simplify-state-explosion-in-xstate-through-hierarchical-states.md)
+- [16. Multiple Simultaneous States with Parallel States](16_xstate-multiple-simultaneous-states-with-parallel-states.md)
+- [17. Recall Previous States with XState History States Nodes](17_xstate-recall-previous-states-with-xstate-history-states-nodes.md)
+- [18. Use XState Null Events and Transient Transitions to Immediately Transition States](18_xstate-use-xstate-null-events-and-transient-transitions-to-immediately-transition-states.md)
+- [19. Delay XState Events and Transitions](19_xstate-delay-xstate-events-and-transitions.md)
+- [20. Invoking a Promise for Asynchronous State Transitions in XState](20_xstate-invoking-a-promise-for-asynchronous-state-transitions-in-xstate.md)
+- [21. Invoke Callbacks to Send and Receive Events from a Parent XState Machine](21_xstate-invoke-callbacks-to-send-and-receive-events-from-a-parent-xstate-machine.md)
+- [22. Invoke Child XState Machines from a Parent Machine](22_xstate-invoke-child-xstate-machines-from-a-parent-machine.md)
 
 ## Contribute
 
