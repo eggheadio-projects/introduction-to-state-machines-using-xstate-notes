@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://egghead.io/courses/introduction-to-state-machines-using-xstate">Thinking Reactively with RxJS</a></h1>
+<h1 align="center"><a href="https://egghead.io/courses/introduction-to-state-machines-using-xstate"> Introduction to State Machines Using XState </a></h1>
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/403/thumb/IntroxState_1000.png" width="300"/></p>
 
