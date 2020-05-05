@@ -55,3 +55,5 @@ With that one character change, we will not leave the node with the `DO_NOTHING`
 ## Personal take
 
 Cool - so, what? Good to know this but it would be interesting to have a real-world example to go along with this.
+
+There is a real-world example of internal transitions in the [XState docs](https://xstate.js.org/docs/guides/transitions.html#internal-transitions). It's slightly more helpful but still doesn't have an example of realistic entry/exit side effects.

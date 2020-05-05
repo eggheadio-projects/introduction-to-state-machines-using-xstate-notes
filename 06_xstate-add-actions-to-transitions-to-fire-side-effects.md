@@ -126,4 +126,6 @@ const lightBulbMachine = Machine({
 
 Again, appreciating Kyle's style of looking at the fundamental of passing a function with each state change and then building up to using the options object way.
 
+Many people compare XState to Redux, and part of my own motivation in taking this course was to better understand the differences. Here I can already see a divergence in the mental model behind the two. It seems Redux merges the concepts of Actions and Events a bit. But in XState they are kept distinct. An Event is a legal transition between finite states and an Action is something that should happen due to a transition. This means XState is equipped to handle side-effects out-of-the-box. By contrast, in Redux world, there are many different solutions and opinions on how to handle side-effects.
+
 Kyle uses the vizualising tool explored last lesson here. This is helpful to explore the machine in isolation.

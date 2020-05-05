@@ -124,3 +124,5 @@ const multiColoredBulbMachine = Machine({
 ## Personal take
 
 I mostly am trying to imagine using state to modify and work with user objects. I can see more clearly how this would work with the introduction of context here.
+
+Here we get to another mental model difference between XState and Redux. XState explicitly separates finite or enumerable state (LIT, UNLIT, BROKEN) from infinite state, since color can take on an inumerable number of values.
